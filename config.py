@@ -10,6 +10,6 @@ SUPPORTED_PLATFORMS = [
 ]
 
 # Example for API credentials (set these in your Render environment variables)
-API_ID = os.environ.get('27775431')
-API_HASH = os.environ.get('b70bb1d45a1d05236671d4cc615e40f9')
-BOT_TOKEN = os.environ.get('7710884267:AAFwceEWEXk62mueTA_QzXcwP4NrO88uMOM')
+API_ID = os.environ.get('27433400')
+API_HASH = os.environ.get('1a286620de5ffe0a7d9b57e604293555')
+BOT_TOKEN = os.environ.get('8457218709:AAGZpkE5j2YYE0FzoIXxe7d97qSTXcWwVyY')
